@@ -9,5 +9,3 @@ ______________
 - 2 Activate python environment
 
 _______________
-
-[alt text](Снимок.PNG?raw=true 'Game')
