@@ -10,4 +10,4 @@ ______________
 
 _______________
 
-[alt text](Снимок.PNG)
+[alt text](Снимок.PNG?raw=true 'Game')
